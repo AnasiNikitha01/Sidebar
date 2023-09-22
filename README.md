@@ -11,7 +11,7 @@ A customizable and responsive sidebar component built using HTML, CSS, and JavaS
 
 ## Demo
 
-You can see a live demo of the sidebar component [here](https://anasinikitha01.github.io/Sidebar/).
+You can see a live demo of the sidebar component here : (https://anasinikitha01.github.io/Sidebar/).
 
 ## Features
 
